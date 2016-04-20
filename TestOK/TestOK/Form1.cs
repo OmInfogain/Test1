@@ -19,7 +19,7 @@ namespace TestOK
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //this is good
+            //this is good.
             System.Windows.Forms.MessageBox.Show("Hi");
         }
     }
